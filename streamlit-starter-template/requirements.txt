@@ -1,0 +1,4 @@
+#requirements file needed when deploying app
+streamlit
+pandas
+numpy
